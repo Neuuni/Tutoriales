@@ -11,11 +11,11 @@ Cada que completes un tema del curso, podrás apreciarlo marcado como completado
 
 ![cert](./img/cert1.jpg)
 
-Para culminar una materia se debe tomar en cuenta el porcentaje de avance que se tiene en la materia, ya sea un 80% o un 100%, obteniendo esa porcentaje aparecera la opción de "obtener diploma" en la cual hay que contastar para poder descargar nuestro certifcado. 
+Para culminar una materia se debe tomar en cuenta el porcentaje de avance que se tiene en la materia, ya sea un 80% o un 100%, obteniendo esa porcentaje aparecera la opción de "obtener diploma" en el cual hay que contestar para poder descargar nuestro certifcado. 
 
 ![cert](./img/cert2.jpg)
 
-Al realizar dar respuesta a la encuesta se nos habilitara la siguiente opción, en la cual nos permitira realizar la descarga de nuestro certificado. 
+Al dar respuesta a la encuesta se nos habilitara la siguiente opción, en la cual nos permitira realizar la descarga de nuestro certificado. 
 
 ![cert](./img/cert3.jpg)
 
@@ -32,5 +32,5 @@ momento.
 
 ![cert](./img/cert6.jpg)
 
-para terminar 
+
 
