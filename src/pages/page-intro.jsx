@@ -11,12 +11,12 @@ return (
 <>
 <div className="contenedor-intro">
  <div className="contenido-izquierdo">
-    <h1 className="title-intro">¡Bienvenidos a estos tutoriales de Neuuni!</h1>
+    <h1 className="title-intro">¡Bienvenidos a la sección de tutoriales de Neuuni!</h1>
     <p className="descripcion-intro">Adéntrate y capacítate con diversos tutoriales para mejorar tu estancia con nosotros.</p>
-   <div className="botones-intro">
+   {/* <div className="botones-intro">
      <a href="https://cursos.unineuuni.edu.mx/courses/course" className="btn-intro" id="btn-intro1"><b>Plataforma de Neuuni</b></a>
      <a href="https://app.gedux.mx/login" className="btn-intro"><b>Plataforma de pagos</b></a>
-   </div>
+   </div> */}
  </div>
  <div className="contenido-derecho">
     <img src={nevil3} alt="none" className="img-intro" loop="infinite" />
