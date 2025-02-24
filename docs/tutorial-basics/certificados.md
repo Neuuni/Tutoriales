@@ -20,17 +20,18 @@ la cual debemos dar respuesta para que se pueda generar nuestro certificado.
 
 ![cert](./img/cert0.jpg)
 
-Al contestar la evalucion se nos habilitara un botón de la siguiente manera, en la cual nos dara la opcion de obtener nueatro cetificado y de la misma manera poder descargarlo.
+Al contestar la evalución se nos habilitara un botón de la siguiente manera, en la cual nos dara la opción de obtener nuestro cetificado y de la misma manera poder descargarlo.
 
 ![cert](./img/cert3.jpg)
 
+Al seleccionar la opcion anterior se nos mostrara la siguiente visualizacion de certificado.
+
+![cert](./img/cert6.jpg)
+
+En el menú lateral, tendrás un apartado con el nombre ”Mis certificados”, aquí encontraras todos los certificados de los cursos que has completado con éxito.
 Puedes descargar tus certificados las veces que desees y en cualquier momento.
 
 ![cert](./img/cert5.jpg)
-
-En el menú lateral, tendrás un apartado con el nombre ”Mis certificados”, aquí encontraras todos los certificados de los cursos que has completado con éxito.
-
-![cert](./img/cert6.jpg)
 
 
 
