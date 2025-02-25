@@ -1,34 +1,41 @@
 ---
-sidebar_position: 4
+sidebar_position: 14
 ---
 
-# Ingresar a la plataforma de pago
-
-En este tutorial podrás conocer como ingresar a la plataforma de pagos con tu cuenta 
-institucional.
+# Ingresar a gmail institucional.
 
 ### Paso 1
-Ingresa a la plataforma de Neuuni con tu cuenta institucional.
+1. Abre tu navegador
+
+Al ingresar, nos dirigimos en la parte superior de la derecha, donde se encontrará un botón con el nombre "Acceder"
+
+![navegador](./img/gmail1.jpg)
 
 ### Paso 2
-Dentro de la plataforma dirigirte a la sección superior, para acceder a la plataforma de pagos 
-selecciona el botón con el símbolo de dinero.
+2. Si no te aparece el botón de acceder y en su lugar esta una cuenta, damos clic en la cuenta.
 
-![plataforma](./img/plataform1.jpg)
+Cuando demos clic, aparecerá una ventana donde podremos agregas otra cuenta.
 
-### Paso 3 
+![navegador](./img/gmail2.jpg)
 
-Una vez dentro, tendrás que ingresar nuevamente con tu correo institucional dando clic en el botón
-para ingresar con Google.
+### Paso 3
+3. Al dar clic en el botón de “Acceder” o “Agregar otra cuenta” nos redirigirá a otra pantalla donde nos 
+pedirá ingresar nuestro correo.
 
-![plataforma](./img/plataform2.jpg)
+Deberemos ingresar nuestra cuenta institucional en el campo y después dar clic en el botón con 
+nombre de “siguiente”
+
+![navegador](./img/gmail3.jpg)
 
 ### Paso 4
-Al dar clic aparecerá una ventana donde nos preguntará con que cuenta queremos ingresar.
+4. Nos pedirá que ingresemos nuestra contraseña.
 
-![plataforma](./img/plataform3.jpg)
+![navegador](./img/gmail4.jpg)
 
 ### Paso 5
-Seleccionamos la cuenta institucional y automáticamente podremos acceder a la plataforma de pagos.
+5. Ingresamos nuestra contraseña y damos clic en siguiente
 
-![plataforma](./img/plataform4.jpg)
+Una vez ingresado, regresara automáticamente al navegador y podrá ver en la parte superior de la 
+derecha que la cuenta fue agregada correctamente.
+
+![navegador](./img/gmail5.jpg)
