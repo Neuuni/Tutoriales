@@ -18,9 +18,9 @@ function Intro() {
               Esta página ha sido creada especialmente para apoyarte en tu camino académico, brindándote acceso rápido y sencillo a tutoriales que te guiarán en el uso de las principales herramientas que utilizarás durante tu formación. Aquí encontrarás recursos detallados sobre:
             </p>
             <ul>
-              <li><strong>Plataforma NEUUNI</strong>: Aprende a navegar por tu entorno virtual, acceder a tus cursos, entregar tareas y revisar calificaciones.</li>
+              <li><strong>Plataforma </strong>: Aprende a navegar por tu entorno virtual, acceder a tus cursos, entregar tareas y revisar calificaciones.</li>
               <li><strong>Plataforma Gedux</strong>: Descubre cómo utilizar esta herramienta para gestionar tus actividades académicas y administrativas de manera eficiente.</li>
-              <li><strong>Google Meet</strong>: Familiarízate con las videollamadas, reuniones virtuales y clases en línea para que nunca te pierdas una sesión importante.</li>
+              <li><strong>Google </strong>: Familiarízate con las videollamadas, reuniones virtuales y clases en línea para que nunca te pierdas una sesión importante.</li>
             </ul>
             <p>¡Bienvenidos y mucho éxito en tu camino académico! 📚🎓</p>
             {/* <div className="botones-intro">
