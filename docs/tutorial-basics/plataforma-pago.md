@@ -7,16 +7,16 @@ sidebar_position: 4
 En este tutorial podrás conocer como ingresar a la plataforma de pagos con tu cuenta 
 institucional.
 
-### Paso 1
+### ingresar a plataforma.
 Ingresa a la plataforma de Neuuni con tu cuenta institucional.
 
-### Paso 2
+### Pagos 
 Dentro de la plataforma dirigirte a la sección superior, para acceder a la plataforma de pagos 
 selecciona el botón con el símbolo de dinero.
 
 ![plataforma](./img/plataform1.jpg)
 
-### Paso 3 
+### Correo intitucional
 
 Una vez dentro, tendrás que ingresar nuevamente con tu correo institucional dando clic en el botón
 para ingresar con Google.

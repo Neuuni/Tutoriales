@@ -3,12 +3,15 @@ sidebar_position: 5
 ---
 
 # Generación de certificados
+## Información de indicador
 
 Para poder ser acreedor a un certificado, es importante haber completado el 80% del curso. El 
 progreso de los cursos se basa en los distintos temas que hayas completando a lo largo del curso. 
 
 
 ![cert](./img/cert1.jpg)
+
+##
 
 Los pasos a seguir una ves que ya se halla acompletado el proceso de avance indicado debemos
 ubicarnos en la siguiente opcion, en la cual nos aparecera con la siguiente leyenda "Obtener diploma".

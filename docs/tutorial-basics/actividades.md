@@ -6,6 +6,7 @@ sidebar_position: 1
 Lo primero que deveras hacer, es iniciar sesión en la plataforma de NEUUNI con la siguiente liga:
 https://cursos.unineuuni.edu.mx/
 
+
 Una vez hayas iniciado sesión y seleccionado un tema, podrás apreciar distintos apartados de los 
 cuales se compone cada uno de los temas dentro de un curso. Seleccionas el apartado con el 
 nombre “Tarea”.

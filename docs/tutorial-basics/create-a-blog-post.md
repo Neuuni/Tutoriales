@@ -6,7 +6,8 @@ sidebar_position: 3
 
 En este tutorial aprenderás a usar el foro que se encuentra dentro de la plataforma de NEUUNI.
 
-### Paso 1
+### Ingresamos a plataforma
+
 Ingresara la plataforma con tu correo institucional dando clic en el botón
 de “continuar con google”.
 
@@ -15,27 +16,28 @@ navegación y el contenido principal, donde destacan las materias que se están 
 de la carrera.
 
 ##### NOTA: Los foros sé encuentran dentro de cada curso que tengamos.
-### Paso 2 
+### Ubicamos el curso 
+
 Para ingresar a los cursos, puedes seleccionarlos desde la pantalla principal como se marca con la 
 flecha, o bien, puedes dirigirte a la barra de navegación lateral y seleccionar el apartado de “Mis 
 cursos”
 
 ![foro](./img/apcurs1.jpg)
 
-### Paso 3
+### Seleccionamos el tema a consultar.
 
 Dentro del curso, seleccionamos el tema que queramos u ocupemos.
 
 ![foro](./img/apcurs2.jpg)
 
-### Paso 4
+### Apartados del curso.
 
 Después de seleccionar el tema, se mostrará la siguiente pantalla donde podrás ver los distintos 
 apartados del curso.
 
 ![foro](./img/apcurs3.jpg)
 
-### Paso 5
+### Información de curso.
 
 Seleccionamos dando clic en el apartado con el nombre de “Foro”
 
