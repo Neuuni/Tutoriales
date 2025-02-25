@@ -88,7 +88,7 @@ const config = {
             position: 'left',
             label: 'Alumnos',
           },
-
+          /*
           {to: '/mentores/intro',
            label: 'Mentores',
             position: 'left'},
@@ -98,7 +98,7 @@ const config = {
            label: 'Administrativos', 
            position: 'left'
            
-          },
+          },*/
           
         ],
       },

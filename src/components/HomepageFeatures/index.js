@@ -14,7 +14,7 @@ const FeatureList = [
 </>
     ),
   },
-  {
+  /*{
     title: 'Mentores',
     Svg: require('@site/static/img/teacher-svgrepo-com.svg').default,
     description: (
@@ -38,7 +38,7 @@ const FeatureList = [
          
       </>
     ),
-  },
+  },*/
 ];
 
 function Feature({Svg, title, description}) {
