@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Envio de actividades
+# Enviosss de actividades
 
 Lo primero que deveras hacer, es iniciar sesión en la plataforma de NEUUNI con la siguiente liga:
 https://cursos.unineuuni.edu.mx/
