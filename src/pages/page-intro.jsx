@@ -29,9 +29,7 @@ function Intro() {
                 llamadas y compartir pantalla.</p>
               </li>
             </ul>
-            <p className="centered-paragraph">
-            <b>¡Bienvenidos y mucho éxito en tu camino académico! 📚🎓</b>
-            </p>
+            <p className="centered-paragraph"><b>¡Bienvenidos y mucho éxito en tu camino académico! 📚🎓</b></p>
             {/* <div className="botones-intro">
               <a href="https://cursos.unineuuni.edu.mx/courses/course" className="btn-intro" id="btn-intro1"><b>Plataforma de Neuuni</b></a>
               <a href="https://app.gedux.mx/login" className="btn-intro"><b>Plataforma de pagos</b></a>
