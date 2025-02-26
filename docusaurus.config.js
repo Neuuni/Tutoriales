@@ -132,14 +132,14 @@ const config = {
             ],
           },
           {
-            title: 'Enlaces directos.',
+            title: 'Nuestras plataformas:',
             items: [
               {
-                label: 'Plataforma de Neuuni.',
+                label: 'NEUUNI Universidad',
                 href: 'https://cursos.unineuuni.edu.mx/',
               },
               {
-                label: 'Plataforma de pagos.',
+                label: 'Gedux',
                 href: 'https://app.gedux.mx/login',
               },
             ],
