@@ -3,6 +3,7 @@ sidebar_position: 5
 ---
 
 # Elementos de un curso
+
 ## Ingresamos al curso.
 
 Para ingresar a un curso, hay 2 maneras de hacerlo:

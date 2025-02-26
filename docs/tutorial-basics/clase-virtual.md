@@ -1,6 +1,7 @@
 ---
 sidebar_position: 6
 ---
+
 # Clase virtual
 
 Este es un tutorial para 

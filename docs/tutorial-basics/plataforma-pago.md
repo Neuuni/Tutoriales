@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Ingreso a la plataforma de pago
+# Acceso a tu plataforma Gedux
 
 En este tutorial podrás conocer como ingresar a la plataforma de pagos con tu cuenta 
 institucional.

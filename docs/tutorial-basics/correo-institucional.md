@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Ingreso al correo institucional
+# Acceso al correo institucional
 
 ### Abre tu navegador
 
