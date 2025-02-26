@@ -1,8 +1,8 @@
 ---
-sidebar_position: 13
+sidebar_position: 2
 ---
 
-# Ingresar a la plataforma
+# Ingreso a la plataforma
 
 ### Paso 1
 1. Ingresa a la plataforma de Neuuni en la dirección: cursos.unineuuni.edu.mx 

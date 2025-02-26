@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 ---
 
-# Ingresar a la plataforma de pago
+# Ingreso a la plataforma de pago
 
 En este tutorial podrás conocer como ingresar a la plataforma de pagos con tu cuenta 
 institucional.

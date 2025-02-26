@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 7
 ---
 
-# Clase sincronica
+# Clase sincrónica
 
 Las clases sincrónicas tienen la finalidad de asegurar la interacción entre los mentores y estudiantes 
 en tiempo real.

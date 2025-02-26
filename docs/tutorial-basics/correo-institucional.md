@@ -1,8 +1,8 @@
 ---
-sidebar_position: 14
+sidebar_position: 1
 ---
 
-# Ingresar a gmail institucional.
+# Ingreso al correo institucional
 
 ### Abre tu navegador
 

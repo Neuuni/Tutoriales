@@ -1,8 +1,9 @@
 ---
-sidebar_position: 5
+sidebar_position: 9
 ---
 
 # Generación de certificados
+
 ## Información de indicador
 
 Para poder ser acreedor a un certificado, es importante haber completado el 80% del curso. El 

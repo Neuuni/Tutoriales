@@ -1,7 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 6
 ---
-# Clase Virtual
+# Clase virtual
 
 Este es un tutorial para 
 guiarte paso a paso en el uso de la clase virtual dentro de cada uno de los temas de un curso.

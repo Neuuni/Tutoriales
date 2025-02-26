@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 10
 ---
 
-# Envio de mensajes
+# Envío de mensajes
 
 Al ser una universidad únicamente en línea, entendemos que pueda ser difícil la comunicación entre 
 estudiantes y docentes. Por lo tanto, dentro de la plataforma encontraras un espacio donde podrás

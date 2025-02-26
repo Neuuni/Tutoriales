@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 8
 ---
 
-# Uso del foro
+# Foro
 
 En este tutorial aprenderás a usar el foro que se encuentra dentro de la plataforma de NEUUNI.
 
