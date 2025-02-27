@@ -65,4 +65,6 @@ Por otro lado si realizas tu tarea correctamente, el mentor te calificara
 tu actividad como aprobatoria y en este caso podrás ver en la parte 
 lateral un espacio que muestra si tu actividad realizada es aprobatoria.
 hbhb
+
+actividades
 ![act](./img/act6.jpg)
