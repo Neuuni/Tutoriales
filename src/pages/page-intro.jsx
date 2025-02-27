@@ -18,15 +18,15 @@ function Intro() {
             <strong>Selecciona la sección de tutoriales que te interesa: 🔍</strong>
             </p>
             <div className="botones-intro">
-              <a href="https://cursos.unineuuni.edu.mx/courses/course" className="btn-intro">
-                <b>Plataforma NEUUNI</b>
+              <a href="/docs/category/primeros-pasos" className="btn-intro">
+                <b>📘 Plataforma NEUUNI</b>
               </a>
               <p>Aprende a navegar por tu entorno virtual, acceder a tus cursos, entregar tareas y revisar calificaciones.</p>
-              <a href="https://app.gedux.mx/login" className="btn-intro">
+              <a href="/docs/category/plataforma-gedux" className="btn-intro">
                 <b><strong>💸 Plataforma Gedux</strong></b>
               </a>
               <p>Descubre cómo utilizar esta herramienta para gestionar tus actividades académicas y administrativas de manera eficiente.</p>
-              <a href="https://meet.google.com/" className="btn-intro">
+              <a href="/docs/category/google-meet" className="btn-intro">
                 <b><strong>💻 Google Meet</strong></b>
               </a>
               <p>Conoce cómo unirte a tus clases en línea, participar en video</p>

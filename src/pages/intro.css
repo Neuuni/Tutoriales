@@ -92,6 +92,7 @@
   
   .btn-intro:hover {
     background-color: #0056b3;
+    text-decoration: none;
   }
   
   .contenido-derecho {
