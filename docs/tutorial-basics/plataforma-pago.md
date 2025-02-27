@@ -2,10 +2,11 @@
 sidebar_position: 3
 ---
 
-# Acceso a tu plataforma Gedux
+# Gedux
 
-En este tutorial podrás conocer como ingresar a la plataforma de pagos con tu cuenta 
-institucional.
+## Aprende cómo hacer tus pagos
+
+Tranquilidad y facilidad financiera. Realiza tus pagos de colegiatura de manera segura y sencilla a través de Gedux. Mantén al día tu trayectoria académica con pagos mensuales fáciles de gestionar.
 
 ### ingresar a plataforma.
 Ingresa a la plataforma de Neuuni con tu cuenta institucional.

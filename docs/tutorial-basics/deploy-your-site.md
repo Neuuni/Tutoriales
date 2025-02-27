@@ -4,6 +4,11 @@ sidebar_position: 11
 
 # Neuuni Play
 
+## El 'Netflix' de NEUUNI
+
+¡Estamos seguros de que aquí encontrarás contenido fascinante!
+Encontrarás una gran variedad de videos con eventos, charlas y conferencias exclusivas de nuestra comunidad. Entra a Neuuni Play y descubre todo lo que la comunidad tiene para compartir contigo.
+
 Neuuni play es un espacio donde encontraras distintas series de videos de diferentes categorías en 
 tendencia. Encontraras temas como ciencia, tecnología, educación, negocios, investigación, 
 psicología, etc.

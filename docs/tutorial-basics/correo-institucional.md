@@ -2,7 +2,11 @@
 sidebar_position: 1
 ---
 
-# Acceso a tu correo institucional
+# Correo institucional
+
+## Aprende cómo iniciar sesión
+
+Como primer paso, te guiaremos para acceder a tu correo institucional. Es tu herramienta clave para estar en contacto con profesores y recibir información importante de la universidad. ¡Empecemos!
 
 ### Abre tu navegador
 

@@ -4,6 +4,10 @@ sidebar_position: 12
 
 # Neuuni Space
 
+## Nuestro espacio de conexión e interacción
+
+Este es un espacio diseñado para ti, donde encontrarás un lugar lleno de temas interesantes y relevantes para tu vida universitaria. Sumérgete en esta sección y descubre todo lo que tenemos preparado para ti. ¡No te arrepentirás!
+
 Dentro de la plataforma de Neuuni podrás encontrar un espacio diseñado para ti, donde podrás
 conocer, interactuar y conectar con tu comunidad, además podrás platicar con personas de todo 
 México y Latinoamérica para conocer nuevas perspectivas sobre los distintos temas dentro de este
