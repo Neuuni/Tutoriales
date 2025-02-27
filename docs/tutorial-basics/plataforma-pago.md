@@ -11,7 +11,7 @@ Tranquilidad y facilidad financiera. Realiza tus pagos de colegiatura de manera 
 ### ingresar a plataforma.
 Ingresa a la plataforma de Neuuni con tu cuenta institucional.
 
-### Pagos 
+### Pagosss 
 Dentro de la plataforma dirigirte a la sección superior, para acceder a la plataforma de pagos 
 selecciona el botón con el símbolo de dinero.
 
