@@ -1,0 +1,31 @@
+/* Estilos personalizados para el footer */
+.footer__links {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .footer__links .footer__link-item {
+    flex: 1 1 200px;
+    margin: 10px;
+  }
+  
+  .footer__title {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .footer__link-item a {
+    font-size: 1rem;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold; /* Agrega las letras en negrita */
+  }
+  
+  .footer__link-item a:hover {
+    text-decoration: underline;
+  }
+  
+  .footer__link-item {
+    font-weight: bold; /* Agrega las letras en negrita */
+  }
