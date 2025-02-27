@@ -106,15 +106,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Soporte técnico',
+            title: 'Contacto de Soporte Técnico:',
             items: [
               {
-                label: '440 105 1527',
+                label: 'Whatsapp',
                 href: 'https://wa.me/message/RSY3GACKA2KTN1',
               },
+              {
+                label: 'ayuda@unineuuni.edu.mx 📩',
+                href: 'mailto:ayuda@unineuuni.edu.mx'
+              }
             ],
           },
-          {
+          /*{
             title: 'Adicionales',
             items: [
               {
@@ -124,13 +128,9 @@ const config = {
               {
                 label: 'controlescolar@unineuuni.edu.mx',
                 href: 'https://mail.google.com',
-              },
-              {
-                label: 'ra.gomez@unineuuni.edu.mx',
-                href: 'https://mail.google.com',
-              },
+              }
             ],
-          },
+          },*/
           {
             title: 'Nuestras plataformas:',
             items: [
