@@ -2,11 +2,11 @@
 sidebar_position: 10
 ---
 
-# Envío de mensajes
+# Chatea con tu mentor
 
-Al ser una universidad únicamente en línea, entendemos que pueda ser difícil la comunicación entre 
-estudiantes y docentes. Por lo tanto, dentro de la plataforma encontraras un espacio donde podrás
-conversar con los estudiantes y mentores con los que compartes cursos.
+## Contacta a tu mentor en la plataforma
+
+Entendemos que en un entorno virtual puede ser difícil la comunicación entre estudiantes y docentes. Es por eso que, dentro de la plataforma, encontrarás un espacio diseñado para conversar con los estudiantes y mentores con los que compartes cursos.
 
 ### Paso 1
 Para ingresar a este apartado, deberás dirigirte al menú principal de la 

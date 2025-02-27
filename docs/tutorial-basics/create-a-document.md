@@ -4,7 +4,12 @@ sidebar_position: 5
 
 # Elementos de un curso
 
-## Ingresamos al curso.
+## Descubre el contenido de tus materias
+
+¡Tu aprendizaje comienza aquí! Descubre tu materia a fondo.
+Aquí te presentamos los 5 elementos clave de cada materia: Clase Virtual, Clase Sincrónica, Material de Apoyo, Foro y Tarea. Explora cada uno y aprovecha al máximo tu aprendizaje.
+
+### Ingresamos al curso.
 
 Para ingresar a un curso, hay 2 maneras de hacerlo:
 1. Ingresa seleccionando el curso como se señala con la flecha 1.
@@ -13,7 +18,7 @@ vez dentro, podrás observar todos los cursos en los cuales estas inscrito.
 
 ![curso](./img/apcurs1.jpg)
 
-## Número de tema a consultar.
+### Número de tema a consultar.
 
 Al ingresar al curso, se observará la pantalla inicial del curso donde a primera vista podrás observar 
 una barra superior que nos indica en que apartado estamos, la cual contiene los temas y los 
@@ -24,7 +29,7 @@ elementos.
 
 ![curso](./img/apcurs2.jpg)
 
-## contenido del curso.
+### contenido del curso.
 
 La pantalla que se muestra en el apartado de introducción, contiene un video de presentación del curso junto con una introducción.
 
@@ -35,14 +40,18 @@ Al ingresar al tema seleccionado podrás ver distintos apartados de los cuales s
 
 ![curso](./img/apcurs3.jpg)
 
-## Clase virtual
+### Clase virtual
 Aquí podrás consultar toda la información y actividades del tema.
-## Clase sincronica
+
+### Clase sincronica
 En este apartado podrás ver la clase grabada las veces que desees.
-## Material de apoyo
+
+### Material de apoyo
 Para reforzar tu conocimiento podrás seleccionar este apartado y consultar distintos tipos de material que te harán complementar tu entendimiento.
-## Foro
+
+### Foro
 Si quieres compartir tu opinión a través de texto, imágenes, enlaces o documentos, puedes 
 ingresar al foro y compartirla, al igual que ver las distintas opiniones de los demás participantes.
-## Tarea
+
+### Tarea
 En este apartado, el mentor asignara distintas tareas las cuales deveras realizar para aumentar el avance del curso.

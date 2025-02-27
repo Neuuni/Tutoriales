@@ -4,10 +4,14 @@ sidebar_position: 7
 
 # Clase sincrónica
 
+## Visualiza la grabación de tu clase
+
+Aquí encontrarás las grabaciones de las clases en vivo. Perfectas para repasar, ponerte al día si faltaste o para ayudarte a realizar tu tarea.
+
 Las clases sincrónicas tienen la finalidad de asegurar la interacción entre los mentores y estudiantes 
 en tiempo real.
 
-## 
+### 
 
 En la clase sincrónica se abordan explicaciones y demostraciones de contenidos y procedimientos prácticos sustantivos del tema, además se generan actividades que facilitan la interrelación de los 
 estudiantes, como son el trabajo entre pares, pequeños grupos y en plenarios.

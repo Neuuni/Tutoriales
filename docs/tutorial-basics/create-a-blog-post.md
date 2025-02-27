@@ -4,7 +4,9 @@ sidebar_position: 8
 
 # Foro
 
-En este tutorial aprenderás a usar el foro que se encuentra dentro de la plataforma de NEUUNI.
+## Comparte tus opiniones y participa en la discusión
+
+Tu opinión en NEUUNI importa. En este foro, podrás debatir con tus compañeros sobre los temas de la materia. Participa y enriquece el aprendizaje de todos.
 
 ### Ingresamos a plataforma
 

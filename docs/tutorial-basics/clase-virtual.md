@@ -4,6 +4,10 @@ sidebar_position: 6
 
 # Clase virtual
 
+## Tu primer acercamiento al conocimiento
+
+El pilar fundamental de tu curso. Aquí encontrarás todo lo que necesitas para dominar la materia, ya que esta sección es tu fuente principal de conocimiento. Recuerda que revisar a fondo esta sección te preparará para aprovechar al máximo la sesión con tu profesor.
+
 Este es un tutorial para 
 guiarte paso a paso en el uso de la clase virtual dentro de cada uno de los temas de un curso.
 

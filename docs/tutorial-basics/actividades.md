@@ -3,31 +3,35 @@ sidebar_position: 4
 ---
 # Envío de actividad
 
-## Ingreso a plataforma Neuuni.
+## Sube tus actividades a la plataforma
+
+¿Listo para brillar? Aquí aprenderás a subir tus tareas a la plataforma para que tu mentor pueda evaluarlas. Recuerda que tus calificaciones dependen en gran medida de la entrega exitosa de tus actividades.
+
+### Ingreso a plataforma Neuuni.
 
 Lo primero que deveras hacer, es iniciar sesión en la plataforma de NEUUNI con la siguiente liga:
 https://cursos.unineuuni.edu.mx/
 
-## Localizar el tema a consultar.
+### Localizar el tema a consultar.
 
 Una vez hayas iniciado sesión y seleccionado un tema, podrás apreciar distintos apartados de los 
 cuales se compone cada uno de los temas dentro de un curso. Seleccionas el apartado con el 
 nombre “Tarea”.
 
-## información de la actividad.
+### información de la actividad.
 
 Al ingresar podrás observar el nombre del curso junto al nombre del mentor. Debajo hay un apartado principal donde podrás conocer detalles sobre la tarea a realizar al igual que los criterios de 
 evaluación y puntos que debe llevar.
 
 ![act](./img/act1.jpg)
 
-## Opción de responder actividad.
+### Opción de responder actividad.
 
 Debajo del apartado principal encontraras un apartado donde podrás subir la tarea o actividad.
 
 ![act](./img/act2.jpg)
 
-## ¿Como enviar mi documento?.
+### ¿Como enviar mi documento?.
 
 Cuando des clic en el botón de responder actividad, nos dirigirá a una ventana donde tendremos que subir los archivos. 
 
@@ -39,7 +43,7 @@ Cuando estes listo de cargar tus documentos, al final encontraras 2 botones, uno
 guardar tu tarea como borrador y el otro es para enviar la tarea directamente al mentor. También
 podrás encontrar estos mismos botones en la parte superior de la izquierda.
 
-## Intentos permitidos.
+### Intentos permitidos.
 
 El encabezado muestra el número de intentos para poder enviar la tarea, esto debido al criterio del 
 mentor el cual puede evaluar tu actividad como “incompleta” por lo que deberás volver a realizarla.
@@ -55,7 +59,7 @@ docente
 
 ![act](./img/act5.jpg)
 
-## Consulta de calificación.
+### Consulta de calificación.
 
 Por otro lado si realizas tu tarea correctamente, el mentor te calificara 
 tu actividad como aprobatoria y en este caso podrás ver en la parte 

@@ -2,7 +2,12 @@
 sidebar_position: 2
 ---
 
-# Acceso a tu plataforma NEUUNI
+# Plataforma NEUUNI
+
+## Accede a la plataforma con tu correo institucional
+
+¡Tu campo virtual te espera!
+Encontrarás todos los recursos para tus cursos: clase virtual, clase sincrónica, materiales de apoyo, foros y envíos de tareas. Explora y recorre todo lo que NEUUNI tiene para ti.
 
 ### Paso 1
 1. Ingresa a la plataforma de Neuuni en la dirección: cursos.unineuuni.edu.mx 
