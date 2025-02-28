@@ -1,5 +1,6 @@
 import React from 'react';
 import styles from './styles.module.css';
+import styles2 from './intro.css';
 
 const copyEmailToClipboard = () => {
   navigator.clipboard.writeText('ayuda@unineuuni.edu.mx');
@@ -9,7 +10,8 @@ const copyEmailToClipboard = () => {
 function SupportSection() {
   return (
     <div className={styles.supportSection}>
-      <p>Si tienes dudas o sugerencias sobre la plataforma, puedes contactarte a Soporte Técnico:</p>
+      <h2>¿Tienes sugerencias o no encuentras lo que buscas?</h2>
+      <h3>Contáctate con Soporte Técnico: 👇</h3>
       <div className={styles.supportButtons}>
         <a href="https://wa.me/5214401051527" className={styles.whatsappButton} target='_blank' rel='noreferrer'>
           WhatsApp
