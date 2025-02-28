@@ -4,6 +4,7 @@ import mascota from "./img/mascota.gif";
 import nevil from "./img/nevil1.gif";
 import nevil2 from "./img/nevil2.gif";
 import nevil3 from "./img/nevil-origin.gif";
+import SupportSection from "./SupportSection";
 
 function Intro() {
   return (
@@ -36,7 +37,8 @@ function Intro() {
             <p className="centered-paragraph"><b>¡Bienvenidos y mucho éxito en tu camino académico! 📚🎓</b></p>
           </div>
           <div className="contenido-derecho">
-            <img src={nevil3} alt="none" className="img-intro" loop="infinite" />
+            <div className="mascota"><img src={nevil3} alt="none" className="img-intro" loop="infinite" /></div>
+            <div className="mascota"><SupportSection /></div>          
           </div>
         </div>
       </div>

@@ -1,0 +1,151 @@
+.features {
+  padding: 4rem 0;
+}
+
+.featureSvg {
+  width: 80%; /* Reduce el tamaño de la imagen */
+  height: auto;
+  display: block;
+  margin: 0 auto; /* Centra la imagen horizontalmente */
+}
+
+.featureTitle {
+  font-size: 1.5rem; /* Aumenta el tamaño de la fuente del título */
+  margin-bottom: 1rem;
+}
+
+.featureDescription {
+  font-size: 1.2rem; /* Aumenta el tamaño de la fuente del párrafo */
+}
+
+.supportSection {
+  margin-top: 2rem;
+  text-align: center;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.supportButtons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.whatsappButton, .emailButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem 1.5rem; /* Aumenta el tamaño del padding */
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  font-weight: bold; /* Agrega las letras en negrita */
+  transition: background-color 0.3s ease; /* Añade una transición suave */
+}
+
+.whatsappButton {
+  background-color: #25D366;
+}
+
+.whatsappButton:hover {
+  background-color: #1ebe57; /* Color más oscuro al pasar el ratón */
+  text-decoration: none;
+  color: white;
+}
+
+.emailButton {
+  background-color: #007BFF;
+}
+
+.emailButton:hover {
+  background-color: #0056b3; /* Color más oscuro al pasar el ratón */
+  color: white;
+  text-decoration: none;
+}
+
+.feature {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  margin-bottom: 1rem;
+}
+
+.feature a {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #007BFF;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  display: inline-block;
+  text-align: center;
+  white-space: nowrap; /* Evita que el texto se divida en varias líneas */
+  font-weight: bold; /* Agrega las letras en negrita */
+}
+
+.feature a:hover {
+  background-color: #0056b3;
+}
+
+.home-buton {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  background-color: #007BFF;
+}
+
+.home-button {
+  margin-top: 1rem;
+  padding: 1rem 2rem; /* Aumenta el tamaño del padding para hacerlo más ancho */
+  background-color: #0047bb; /* Cambia el color del botón */
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  display: inline-block;
+  text-align: center;
+  white-space: nowrap; /* Evita que el texto se divida en varias líneas */
+  font-weight: bold; /* Agrega las letras en negrita */
+}
+
+.home-button:hover {
+  background-color: #003399; /* Color más oscuro al pasar el ratón */
+}
+
+.contenido {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contenido-izquierdo, .contenido-derecho {
+  flex: 1;
+  padding: 1rem;
+}
+
+.contenido-derecho {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contenido-izquierdo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-intro {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
