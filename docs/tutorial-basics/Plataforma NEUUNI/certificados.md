@@ -10,8 +10,8 @@ sidebar_position: 9
 
 ### Porcentaje de avance
 
-Para poder ser acreedor a un certificado, es importante haber completado el 80% del curso. El progreso de los cursos se basa en los distintos temas que hayas completando a lo largo del curso. 
-
+Para obtener el certificado de la materia, es importante tener com-
+pletado el 80 % del curso.
 
 ![cert](./img/cert1.jpg)
 
@@ -40,7 +40,7 @@ Al seleccionar la opcion anterior se nos mostrara la siguiente visualizacion de 
 
 ### Todos mis certificados
 
-En el menú lateral, tendrás un apartado con el nombre ”Mis certificados”, aquí encontraras todos los certificados de los cursos que has completado con éxito.
+En el menú lateral, tendrás un apartado con el nombre "Mis certificados". Aquí encontrarás todos los certificados de los cursos que has completado con éxito.
 Puedes descargar tus certificados las veces que desees y en cualquier momento.
 
 ![cert](./img/cert5.jpg)

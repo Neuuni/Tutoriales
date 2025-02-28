@@ -40,14 +40,28 @@ Cuando des clic en el botón de "Responder actividad", nos dirigirá a una venta
 
 ![act](./img/act3.jpg)
 
+neuuni-act
+En este apartado podrás subir tu tarea además de adjuntar enlaces y colocar descripciones.
+
+=======
+main
 Al cargar tus archivos, aparecerán dos botones: Guardar como borrador
 y Enviar al mentor. El primero sirve para mantener tu archivo guardado
 en la página para posteriores revisiones. La segunda opción envía tu
 tarea directamente al mentor.
+neuuni-act
+
+![act](./img/act00.jpg)
+
+### Intentos permitidos.
+
+En el apartado de evaluación aparece un
+=======
 
 ### Intentos permitidos.
 
 El encabezado muestra el número de intentos permitidos.Es importante resaltar que solo se permiten dos intentos de envio.
+main
 
 ![act](./img/act4.jpg)
 
