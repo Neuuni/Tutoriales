@@ -3,8 +3,6 @@ sidebar_position: 4
 ---
 # Envío de actividad
 
-## Sube tus actividades a la plataforma
-
 ¿Listo para brillar? Aquí aprenderás a subir tus tareas a la plataforma para que tu mentor pueda evaluarlas. Recuerda que tus calificaciones dependen en gran medida de la entrega exitosa de tus actividades.
 
 ### Ingreso a plataforma Neuuni.
@@ -18,14 +16,19 @@ Una vez hayas iniciado sesión y seleccionado un tema, podrás apreciar distinto
 cuales se compone cada uno de los temas dentro de un curso. Seleccionas el apartado con el 
 nombre “Tarea”.
 
+![act](./img/cert1.jpg)
+
+## Elige el módulo Tarea.
+
+![act](./img/apcurs3.jpg)
+
 ### información de la actividad.
 
-Al ingresar podrás observar el nombre del curso junto al nombre del mentor. Debajo hay un apartado principal donde podrás conocer detalles sobre la tarea a realizar al igual que los criterios de 
-evaluación y puntos que debe llevar.
+Al ingresar, podrás observar el nombre del curso junto al nombre del mentor. Debajo, hay un apartado principal donde podrás conocer detalles sobre la tarea a realizar, así como los criterios de evaluación y los puntos que debe llevar.
 
 ![act](./img/act1.jpg)
 
-### Opción de responder actividad.
+### Selecciona Responder actividad.
 
 Debajo del apartado principal encontraras un apartado donde podrás subir la tarea o actividad.
 
@@ -33,20 +36,18 @@ Debajo del apartado principal encontraras un apartado donde podrás subir la tar
 
 ### ¿Como enviar mi documento?.
 
-Cuando des clic en el botón de responder actividad, nos dirigirá a una ventana donde tendremos que subir los archivos. 
+Cuando des clic en el botón de "Responder actividad", nos dirigirá a una ventana donde tendremos que subir los archivos. 
 
 ![act](./img/act3.jpg)
 
-En este apartado podrás subir tu tarea además de adjuntar enlaces y colocar descripciones.
-
-Cuando estes listo de cargar tus documentos, al final encontraras 2 botones, uno donde podrás
-guardar tu tarea como borrador y el otro es para enviar la tarea directamente al mentor. También
-podrás encontrar estos mismos botones en la parte superior de la izquierda.
+Al cargar tus archivos, aparecerán dos botones: Guardar como borrador
+y Enviar al mentor. El primero sirve para mantener tu archivo guardado
+en la página para posteriores revisiones. La segunda opción envía tu
+tarea directamente al mentor.
 
 ### Intentos permitidos.
 
-El encabezado muestra el número de intentos para poder enviar la tarea, esto debido al criterio del 
-mentor el cual puede evaluar tu actividad como “incompleta” por lo que deberás volver a realizarla.
+El encabezado muestra el número de intentos permitidos.Es importante resaltar que solo se permiten dos intentos de envio.
 
 ![act](./img/act4.jpg)
 
