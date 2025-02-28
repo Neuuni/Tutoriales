@@ -10,13 +10,14 @@ function Intro() {
     <>
       <div className="contenedor-intro">
         <h1 className="title-intro">
-          <b>¡Bienvenido a los tutoriales de NEUUNI Universidad!</b> 👋📚🎓
+          <b>Bienvenido a nuestro centro de tutoriales de NEUUNI Universidad</b> 👋📚🎓
         </h1>
+        <h2>Explora nuestros recursos y encuentra el conocimiento que buscas.</h2>
         <div className="contenido">
           <div className="contenido-izquierdo">
             <p className="centered-paragraph">
-            <strong>Selecciona la sección de tutoriales que te interesa: 🔍</strong>
-            </p>
+            <h2>Elige tu camino de aprendizaje: 🔍</h2>
+            </p> 
             <div className="botones-intro">
               <a href="/docs/category/primeros-pasos" className="btn-intro">
                 <b>📘 Plataforma NEUUNI</b>
