@@ -10,8 +10,15 @@ function Intro() {
   return (
     <>
       <div className="contenedor-intro">
-        <h1 className="title-intro">
-          <b>Bienvenido a nuestro centro de tutoriales de NEUUNI Universidad</b> 👋📚🎓
+        <h1 className="title-intro" 
+          //style={{ 
+          //  textShadow: '-1px -1px 0 #002d75, 1px -1px 0 #002d75, -1px 1px 0 #002d75, 1px 1px 0 #002d75', 
+          //  color: '#fff', 
+            //backgroundColor: 'gray', // Fondo para que el borde sea visible
+            //padding: '10px', // Espacio adicional para mejor visualización
+          //</div>}}
+          >
+          <b>Bienvenido a nuestro Centro de Ayuda de NEUUNI Universidad</b> 👋📚🎓
         </h1>
         <h2 className="subtitle-intro">
           Explora nuestros recursos y encuentra el conocimiento que buscas.
@@ -23,15 +30,15 @@ function Intro() {
             </p> 
             <div className="botones-intro">
               <a href="/docs/category/primeros-pasos" className="btn-intro">
-                <b>📘 Plataforma NEUUNI</b>
+                <b>📘 Tutoriales NEUUNI</b>
               </a>
               <p>Aprende a navegar por tu entorno virtual: accede a tus cursos, sube tus actividades, participa en los foros, y mucho más.</p>
               <a href="/docs/category/plataforma-gedux" className="btn-intro">
-                <b><strong>💸 Plataforma Gedux</strong></b>
+                <b><strong>💸 Tutoriales Gedux</strong></b>
               </a>
               <p>Gestiona tus pagos mensuales de manera fácil y segura con nuestra herramienta de pagos.</p>
               <a href="/docs/category/google-meet" className="btn-intro">
-                <b><strong>💻 Google Meet</strong></b>
+                <b><strong>💻 Tutoriales Google Meet</strong></b>
               </a>
               <p>Conoce cómo unirte a tus clases en línea con tu correo institucional para interactuar con tus compañeros y mentores.</p>
             </div>
