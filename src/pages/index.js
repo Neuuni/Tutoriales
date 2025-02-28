@@ -31,9 +31,9 @@ export default function Home() {
       description="Neuuni Universidad <head />">
       <Intro />
       <main>
-        <HomepageFeatures />
+        {/* <HomepageFeatures /> */}
       </main>
-      <Video />
+      {/* <Video /> */}
     </Layout>
   );
 }
