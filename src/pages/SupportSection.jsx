@@ -11,7 +11,7 @@ function SupportSection() {
     <div className={styles.supportSection}>
       <p>Si tienes dudas o sugerencias sobre la plataforma, puedes contactarte a Soporte Técnico:</p>
       <div className={styles.supportButtons}>
-        <a href="https://wa.me/5214401051527" className={styles.whatsappButton}>
+        <a href="https://wa.me/5214401051527" className={styles.whatsappButton} target='_blank' rel='noreferrer'>
           WhatsApp
         </a>
         <button onClick={copyEmailToClipboard} className={styles.emailButton}>
