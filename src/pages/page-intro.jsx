@@ -36,7 +36,7 @@ function Intro() {
               <p>Conoce cómo unirte a tus clases en línea con tu correo institucional para interactuar con tus compañeros y mentores.</p>
             </div>
             <p> </p>
-            <p className="centered-paragraph"><h2>¡Éxito en tu camino académico! 📚🎓✨</h2></p>
+            <p className="centered-paragraph"><h2 style={{ color: '#0047bb' }}>¡Éxito en tu camino académico! 📚🎓✨</h2></p>
           </div>
           <div className="contenido-derecho">
             <div className="mascota"><img src={nevil3} alt="none" className="img-intro" loop="infinite"/></div>

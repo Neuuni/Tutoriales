@@ -10,8 +10,8 @@ const copyEmailToClipboard = () => {
 function SupportSection() {
   return (
     <div className={styles.supportSection}>
-      <h2>¿Tienes sugerencias o no encuentras lo que buscas?</h2>
-      <h3>Contáctate con Soporte Técnico: 👇</h3>
+      <h3 style={{ color: 'gray' }}>¿Tienes sugerencias o no encuentras lo que buscas? 👁‍🗨🔍</h3>
+      <h2 style={{ color: '#0047bb' }}>Contáctate con Soporte Técnico: 👇</h2>
       <div className={styles.supportButtons}>
         <a href="https://wa.me/5214401051527" className={styles.whatsappButton} target='_blank' rel='noreferrer'>
           WhatsApp
