@@ -16,6 +16,7 @@
     margin-bottom: 20px;
     font-size: 3em;
     color: #333;
+    flex-direction: column;
   }
   
   .contenido {
