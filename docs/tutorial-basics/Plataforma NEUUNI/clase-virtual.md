@@ -11,8 +11,12 @@ El pilar fundamental de tu curso. Aquí encontrarás todo lo que necesitas para 
 Este es un tutorial para 
 guiarte paso a paso en el uso de la clase virtual dentro de cada uno de los temas de un curso.
 
+## Ingresar a plataforma Neuuni.
+
 Lo primero que deveras hacer, es iniciar sesión en la plataforma de NEUUNI con la siguiente liga: 
 https://cursos.unineuuni.edu.mx
+
+## Ingresar a la materia a consultar.
 
 Una vez hayas iniciado sesión, ingresa al curso que desees.
 Para ingresar a un curso, hay 2 maneras de hacerlo:
@@ -22,10 +26,14 @@ vez dentro, podrás observar todos los cursos en los cuales estas inscrito.
 
 ![virtual](./img/virt1.jpg)
 
+## Identificar el número de tema.
+
 Al ingresar al curso, se observará la pantalla inicial donde contiene una introducción al curso.
 Seleccionamos el número de tema que deseemos.
 
 ![virtual](./img/virt2.jpg)
+
+## Ingresamos al módulo clase virtual.
 
 Una vez seleccionado el tema, nos dirigimos a la sección con el nombre de “Clase virtual”.
 
@@ -35,6 +43,8 @@ Dentro de la sección podremos observar el contenido principal del tema el cual 
 videos y texto y en algunas ocasiones con H5P, así como su progreso.
 
 ![virtual](./img/virt4.jpg)
+
+## ¿Cómo consultar?.
 
 Es importante consumir todo el contenido del tema ya que se vera reflejado al final de la página.
 
@@ -53,6 +63,7 @@ desees.
 
 ![virtual](./img/virt7.jpg)
 
+## Indicador de consulta.
 
 Al concluir con el tema, se verá reflejado de la siguiente manera.
 

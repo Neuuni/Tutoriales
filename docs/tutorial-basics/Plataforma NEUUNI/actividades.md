@@ -39,14 +39,16 @@ Cuando des clic en el botón de responder actividad, nos dirigirá a una ventana
 
 En este apartado podrás subir tu tarea además de adjuntar enlaces y colocar descripciones.
 
-Cuando estes listo de cargar tus documentos, al final encontraras 2 botones, uno donde podrás
-guardar tu tarea como borrador y el otro es para enviar la tarea directamente al mentor. También
-podrás encontrar estos mismos botones en la parte superior de la izquierda.
+Al cargar tus archivos, aparecerán dos botones: Guardar como borrador
+y Enviar al mentor. El primero sirve para mantener tu archivo guardado
+en la página para posteriores revisiones. La segunda opción envía tu
+tarea directamente al mentor.
+
+![act](./img/act00.jpg)
 
 ### Intentos permitidos.
 
-El encabezado muestra el número de intentos para poder enviar la tarea, esto debido al criterio del 
-mentor el cual puede evaluar tu actividad como “incompleta” por lo que deberás volver a realizarla.
+En el apartado de evaluación aparece un
 
 ![act](./img/act4.jpg)
 
