@@ -4,32 +4,32 @@ sidebar_position: 1
 
 # Gedux
 
-## Aprende cómo hacer tus pagos
+## Aprende cómo hacer tus pagos.
 
 Tranquilidad y facilidad financiera. Realiza tus pagos de colegiatura de manera segura y sencilla a través de Gedux. Mantén al día tu trayectoria académica con pagos mensuales fáciles de gestionar.
 
 ### ingresar a plataforma.
-Ingresa a la plataforma de Neuuni con tu cuenta institucional.
 
-### Pagosss 
-Dentro de la plataforma dirigirte a la sección superior, para acceder a la plataforma de pagos 
-selecciona el botón con el símbolo de dinero.
+Dentro de la plataforma, dirígete a la sección superior. Para acceder a la plataforma de pagos, selecciona el botón con el símbolo de dinero.
 
 ![plataforma](./img/plataform1.jpg)
 
-### Correo intitucional
 
-Una vez dentro, tendrás que ingresar nuevamente con tu correo institucional dando clic en el botón
-para ingresar con Google.
+### Selecciona "Continuar con Google".
+
+Una vez dentro, tendrás que ingresar nuevamente con tu correo institucional dando clic en el botón señalado para ingresar con Google.
 
 ![plataforma](./img/plataform2.jpg)
 
-### Paso 4
-Al dar clic aparecerá una ventana donde nos preguntará con que cuenta queremos ingresar.
+### Selecciona tu cuenta.
+
+Al dar clic, aparecerá una ventana donde nos preguntará con qué cuenta queremos ingresar. En este caso, nuestro correo institucional.
 
 ![plataforma](./img/plataform3.jpg)
 
-### Paso 5
-Seleccionamos la cuenta institucional y automáticamente podremos acceder a la plataforma de pagos.
+### Visualización de plataforma.
+
+Se cargará la plataforma Gedux y desde ahí podrás gestionar todo lo relacionado con pagos y también podrás hacer la consulta de califica-
+ciones.
 
 ![plataforma](./img/plataform4.jpg)
