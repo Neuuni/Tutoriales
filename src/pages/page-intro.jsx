@@ -18,7 +18,7 @@ function Intro() {
             //padding: '10px', // Espacio adicional para mejor visualización
           //</div>}}
           >
-          <b>Bienvenido a nuestro Centro de Ayuda de NEUUNI Universidad</b> 👋📚🎓
+          <b>Bienvenido a nuestro Centro de Ayuda NEUUNI</b> 👋📚🎓
         </h1>
         <h2 className="subtitle-intro">
           Explora nuestros recursos y encuentra el conocimiento que buscas.
@@ -36,11 +36,11 @@ function Intro() {
               <a href="/docs/category/plataforma-gedux" className="btn-intro">
                 <b><strong>💸 Tutoriales Gedux</strong></b>
               </a>
-              <p>Gestiona tus pagos mensuales de manera fácil y segura con nuestra herramienta de pagos.</p>
+              <p>Gestiona tu historial académico y tus pagos mensuales de manera fácil y segura.</p>
               <a href="/docs/category/google-meet" className="btn-intro">
                 <b><strong>💻 Tutoriales Google Meet</strong></b>
               </a>
-              <p>Conoce cómo unirte a tus clases en línea con tu correo institucional para interactuar con tus compañeros y mentores.</p>
+              <p>Conoce cómo unirte a tus clases sincrónicas con tu correo institucional para interactuar con tus compañeros y mentores.</p>
             </div>
             <p> </p>
             <p className="centered-paragraph"><h2 style={{ color: '#0047bb' }}>¡Éxito en tu camino académico! 📚🎓✨</h2></p>
