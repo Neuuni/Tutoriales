@@ -199,7 +199,28 @@
   }
 
   .btn-intro {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    background-color: #c4e0ff;
+    color: #0047bb;
+    text-decoration: none;
+    border-radius: 5px;
     font-size: 1.2rem;
+    font-weight: bold;
+    width: 100%;
+    box-sizing: border-box;
+    border-bottom: #000;
+  }
+  
+  .btn-intro:hover {
+    background-color: #007BFF;
+    text-decoration: none;
+    border-bottom: #000;
+    color: #fff;
+
   }
 
   .contenido-izquierdo,
