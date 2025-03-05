@@ -95,8 +95,8 @@
   justify-content: center;
   align-items: center;
   padding: 15px;
-  background-color: #007BFF;
-  color: white;
+  background-color: #b1d7ff;
+  color: #0047bb;
   text-decoration: none;
   border-radius: 5px;
   font-size: 1.5rem;
@@ -108,6 +108,7 @@
 .btn-intro:hover {
   background-color: #0056b3;
   text-decoration: none;
+  color: white;
 }
 
 .contenido-derecho {
@@ -199,28 +200,7 @@
   }
 
   .btn-intro {
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 15px;
-    background-color: #c4e0ff;
-    color: #0047bb;
-    text-decoration: none;
-    border-radius: 5px;
     font-size: 1.2rem;
-    font-weight: bold;
-    width: 100%;
-    box-sizing: border-box;
-    border-bottom: #000;
-  }
-  
-  .btn-intro:hover {
-    background-color: #007BFF;
-    text-decoration: none;
-    border-bottom: #000;
-    color: #fff;
-
   }
 
   .contenido-izquierdo,
@@ -228,10 +208,6 @@
     width: 100%;
     margin: 0;
     padding: 20px;
-  }
-
-  .contenido-derecho {
-    margin-top: 20px; /* Añadir margen superior */
   }
 
   .img-intro {
