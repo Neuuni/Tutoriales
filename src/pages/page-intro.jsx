@@ -29,15 +29,15 @@ function Intro() {
             <h2 className="presentation">Elige tu camino de aprendizaje: 🔍</h2>
             </p> 
             <div className="botones-intro">
-              <a href="/docs/category/primeros-pasos" className="btn-intro">
+              <a href="/docs/category/primeros-pasos.html" className="btn-intro">
                 <b>📘 Tutoriales NEUUNI</b>
               </a>
               <p>Aprende a navegar por tu entorno virtual: accede a tus cursos, sube tus actividades, participa en los foros, y mucho más.</p>
-              <a href="/docs/category/plataforma-gedux" className="btn-intro">
+              <a href="/docs/category/plataforma-gedux.html" className="btn-intro">
                 <b><strong>💸 Tutoriales Gedux</strong></b>
               </a>
               <p>Gestiona tu historial académico y tus pagos mensuales de manera fácil y segura.</p>
-              <a href="/docs/category/google-meet" className="btn-intro">
+              <a href="/docs/category/google-meet.html" className="btn-intro">
                 <b><strong>💻 Tutoriales Google Meet</strong></b>
               </a>
               <p>Conoce cómo unirte a tus clases sincrónicas con tu correo institucional para interactuar con tus compañeros y mentores.</p>
