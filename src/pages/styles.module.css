@@ -50,7 +50,8 @@
 }
 
 .whatsappButton {
-  background-color: #25D366;
+  background-color: #a9fdc6;
+  color: #1b9949;
 }
 
 .whatsappButton:hover {
@@ -60,11 +61,12 @@
 }
 
 .emailButton {
-  background-color: #007BFF;
+  background-color: rgb(229, 229, 229);
+  color: #000;
 }
 
 .emailButton:hover {
-  background-color: #0056b3; /* Color más oscuro al pasar el ratón */
+  background-color: #3a3a3a; /* Color más oscuro al pasar el ratón */
   color: white;
   text-decoration: none;
 }
