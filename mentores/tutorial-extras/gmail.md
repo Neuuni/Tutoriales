@@ -4,16 +4,17 @@ sidebar_position: 1
 
 # Ingresar a gmail institucional.
 
-### Paso 1
-1. Abre tu navegador
+### 1. Abre tu navedor 
 
 Al ingresar, nos dirigimos en la parte superior de la derecha, donde se encontrará un botón con el nombre “Acceder”
 
 
-![navegador](./img/gmail2.jpg)
+![navegador](./img/gmail22.jpg)
 
-### Paso 2
+### 2. Agregar tu cuenta 
 2. Si no aparece el botón de acceder y en su lugar está una cuenta ya agregada, damos clic en esa opción.
+
+![navegador](./img/imagen00.jpg)
 
 Al seleccionar esa opción nos mostrara una ventana de la siguiente manera con las opciones de agregar cuenta o salir, damos clic en la opción señalada.
 
