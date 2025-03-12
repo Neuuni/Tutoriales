@@ -1,6 +1,6 @@
 {
-  "label": "Mentores",
-  "position": 3,
+  "label": "mentores",
+  "position": 2,
   "link": {
     "type": "generated-index",
     "description": "Tutoriales para los mentores de NEUUNI."
