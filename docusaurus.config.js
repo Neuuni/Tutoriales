@@ -64,6 +64,7 @@ const config = {
         },
         items: [
          /* {
+
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
@@ -75,6 +76,7 @@ const config = {
             label: 'Mentores',
             position: 'left'
           },
+
          /* {
             to: '/administrativos',
             label: 'Administrativos',
