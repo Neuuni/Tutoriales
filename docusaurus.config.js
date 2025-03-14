@@ -72,7 +72,7 @@ const config = {
           },
           */
           {
-            to: '/mentores',
+            to: '/mentores/intro',
             label: 'Mentores',
             position: 'left'
           },
