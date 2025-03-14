@@ -6,28 +6,21 @@ sidebar_position: 5
 
 ### 1. Ingreso al curso
 
-Inicia sesión en https://cursos.unineuuni.edu.mx.
+Inicia sesión en https://cursos.unineuuni.edu.mx. Una vez que estés dentro, busca en el menú la opción que dice "Mis Cursos" y haz clic en ella.
 
-Para acceder a un curso, tienes dos opciones:
-
-- 1. *Desde la página principal*. Elige el curso como señala la flecha derecha (puede que sea necesario que te 
-desplaces hacia abajo).
-- 2. *Desde el menú lateral izquierdo*. Selecciona **Mis cursos**, aquí estarán todos tus cursos ordenados 
-alfabéticamente.
+*Visualización de Cursos*: En este módulo, verás una lista de todos los cursos en los que estás inscrito. Cada curso está acompañado de información básica como el nombre del curso, la duración y el estado (activo, pendiente, completado).
 
 ![curso](./img/apcurs1.jpg)
 
 ### 2. Navegar por el curso
 
-Al ingresar al curso, en la parte superior, encontrarás una barra de navegación que muestra en qué apartado te 
-encuentras. Esta barra incluye:
+Al ingresar al curso, en la parte superior, encontrarás una barra de navegación que muestra en qué apartado te encuentras. Esta barra incluye:
 
 - **Introducción**: Una breve descripción sobre el contenido del curso.
 
-- **Sección de Temas**: Accede a los temas del curso para consultar los módulos correspondientes al número de clase que 
-desees revisar.
+- **Sección de Temas**: Accede a los temas del curso para consultar los módulos correspondientes al número de clase que desees revisar.
 
-- **Estudiantes**: Consulta la lista de tus compañeros en el curso.
+- **Estudiantes**: Consulta la lista de alumnos dentro del curso a impartir.
 
 En la siguiente imagen, se muestra el apartado de "Introducción", donde encontrarás sus
 elementos.
@@ -38,16 +31,13 @@ elementos.
 
 En la parte derecha de la pantalla de "Introducción", encontrarás las siguientes secciones:
 
-- **Video de presentación**: Explica los objetivos y estructura del curso (puede no aparecer 
-en algún curso, pero nos esforzamos para tenerlo en todos).
+- **Video de presentación**: Explica los objetivos y estructura del curso (puede no aparecer en algún curso, pero nos esforzamos para tenerlo en todos).
 
-- **Mentor**: Conoce el nombre del mentor y su calificación en NEUUNI, asignada por los propios
-alumnos, de acuerdo a su desempeño.
+- **Mentor**: Aparecera la informacion del mentor.
 
-- **Avisos**: Contiene los avisos importantes que sube tu mentor en el transcurso de la materia.
+- **Avisos**: Contiene los avisos importantes a comunicar a los alumnos.
 
-- **Avance del curso**: Podrás ver el progreso que llevas en el curso de acuerdo a las actividades
-    satisfctorias que vayas obteniendo.
+- **Avance del curso**: Podrás ver el progreso que llevas en el curso de acuerdo a las actividades satisfctorias que vayas obteniendo.
 
 ### 4. Módulos del curso
 
