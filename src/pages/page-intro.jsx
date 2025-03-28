@@ -29,7 +29,11 @@ function Intro() {
             <h2 className="presentation">Elige tu camino de aprendizaje: 🔍</h2>
             </p> 
             <div className="botones-intro">
-              <a href="/docs/category/primeros-pasos.html" className="btn-intro">
+            <a href="/docs/category/primeros-pasos.html" className="btn-intro">
+                <b>🚼 Primeros pasos</b>
+              </a>
+              <p>Aprende cómo acceder a la plataforma con tu correo institucional y conoce los elementos que la conforman.</p>
+              <a href="/docs/category/plataforma-neuuni.html" className="btn-intro">
                 <b>📘 Tutoriales NEUUNI</b>
               </a>
               <p>Aprende a navegar por tu entorno virtual: accede a tus cursos, sube tus actividades, participa en los foros, y mucho más.</p>

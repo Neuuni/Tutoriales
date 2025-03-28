@@ -63,16 +63,15 @@ const config = {
           src: 'img/logo-n.png',
         },
         items: [
-         /* {
+          {
 
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Alumnos',
           },
-          */
           {
-            to: '/mentores/intro',
+            to: '/ment/',
             label: 'Mentores',
             position: 'left'
           },
