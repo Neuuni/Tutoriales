@@ -68,13 +68,14 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Alumnos',
+            label: 'Tutoriales',
           },
-          {
-            to: '/ment/',
+          /* {
+            type: 'docSidebar',
+            sidebarId: 'mentoresSidebar',
+            position: 'left',
             label: 'Mentores',
-            position: 'left'
-          },
+          }, */
 
          /* {
             to: '/administrativos',

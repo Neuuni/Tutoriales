@@ -1,0 +1,8 @@
+{
+  "label": "Recomendaciones",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Tutoriales de mentores para NEUUNI."
+  }
+}
