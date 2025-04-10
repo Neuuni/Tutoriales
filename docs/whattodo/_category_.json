@@ -1,0 +1,8 @@
+{
+  "label": "Qué hago si...",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Consejos para resolver problemas comunes."
+  }
+}

@@ -72,9 +72,9 @@ const config = {
           },
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'whattodoSidebar',
             position: 'left',
-            label: 'Mentores',
+            label: '¿Qué hago si...?',
           },
 
          /* {
