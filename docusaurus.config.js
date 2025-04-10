@@ -70,12 +70,12 @@ const config = {
             position: 'left',
             label: 'Tutoriales',
           },
-          /* {
+          {
             type: 'docSidebar',
-            sidebarId: 'mentoresSidebar',
+            sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Mentores',
-          }, */
+          },
 
          /* {
             to: '/administrativos',
