@@ -1,8 +1,9 @@
 {
-  "label": "Problemas más comunes",
+  "label": "¿Qué hago si...?",
   "position": 1,
   "link": {
     "type": "generated-index",
-    "description": "¿Qué debo hacer si tengo alguno de los siguientes problemas?"
+    "description": "Consulta qué puedes hacer si presentas alguno de los siguientes problemas. Para resolver algún inconveniente
+    que es parte de un proceso, recuerda revisar nuestra sección de Tutoriales."
   }
 }
