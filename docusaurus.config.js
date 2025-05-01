@@ -47,7 +47,7 @@ const config = {
         id: 'mentores',
         path: 'mentores',
         routeBasePath: 'mentores',
-        sidebarPath: require.resolve('./mySidebars.js'),
+        sidebarPath: require.resolve('./mentoresSidebars.js'),
       },
     ],
   ],
@@ -76,13 +76,6 @@ const config = {
             position: 'left',
             label: '¿Qué hago si...?',
           },
-
-         /* {
-            to: '/administrativos',
-            label: 'Administrativos',
-            position: 'left'
-          }, */
-  
         ],
       },
       footer: {
