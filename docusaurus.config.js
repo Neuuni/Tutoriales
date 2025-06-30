@@ -50,6 +50,13 @@ const config = {
         sidebarPath: require.resolve('./mentoresSidebars.js'),
       },
     ],
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-B4DPKHV7FT', // Aquí va tu ID de medición de GA4
+        anonymizeIP: true, // Opcional: para anonimizar las IPs de los usuarios
+      },
+    ],
   ],
 
   themeConfig:
