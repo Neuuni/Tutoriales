@@ -121,6 +121,25 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      algolia: {
+        appId: '7A0CPPGF5D',
+        apiKey: '3c11cba64b9fb86705de0ceff7298d96', // Esta es tu clave de búsqueda (Search-Only API Key)
+        indexName: 'unineuuni', // Este es el nombre del índice que has configurado en Algolia
+        contextualSearch: true, // Habilita la búsqueda contextual
+        // Opcional: Cómo se muestran los resultados de búsqueda
+        // externalUrlRegex: 'external\\.com|domain\\.com',
+
+        // Opcional: Parámetros de búsqueda adicionales (para filtros, etc.)
+        searchParameters: {},
+
+        // Opcional: Ruta para el CSS de DocSearch (ya viene con el tema)
+        // Esto solo es necesario si no usas el preset classic o si quieres una ruta diferente
+        // You can use a custom CSS file to override the default DocSearch CSS (might be useful for dark mode adjustments)
+        // searchPagePath: 'search',
+
+        // Opcional: Idioma del buscador (si tu sitio no es inglés)
+        lang: 'es', // Por ejemplo, para español
+      },
     }),
 };
 
