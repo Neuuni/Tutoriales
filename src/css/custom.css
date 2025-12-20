@@ -4,6 +4,9 @@
  * work well for content-centric websites.
  */
 
+/* 1. Importación de la fuente Inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2124bb;
@@ -15,6 +18,10 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  /* 2. Variables de fuente global */
+  --ifm-font-family-base: 'Inter', sans-serif;
+  --ifm-heading-font-family: 'Inter', sans-serif;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -29,22 +36,22 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-
-.home-buton{
+.home-buton {
   width: 40px;
   padding: 14px;
   padding-left: 115px;
-  padding-right:115px;
+  padding-right: 115px;
   padding-top: 9px;
   border-radius: 4px;
   letter-spacing: 1px;
   border: solid 1px;
   border-radius: 5px;
+  /* El botón heredará 'Inter' automáticamente gracias a :root */
 }
-.home-buton:hover
-{
+
+.home-buton:hover {
   color: rgb(255, 255, 255);
   background-color: #2124bb;
   text-decoration: none;
-  border:  #2124bb;
+  border: #2124bb;
 }
