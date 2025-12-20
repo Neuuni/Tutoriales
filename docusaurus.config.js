@@ -5,10 +5,10 @@ const config = {
   title: 'NEUUNI UNIVERSIDAD',
   tagline: 'Bienvenidos 👋 ',
   favicon: 'img/logo-n.png',
-  url: 'https://RicardoAlanEscobar.github.io/',
+  url: 'https://Neuuni.github.io/',
   baseUrl: '/',
-  organizationName: 'RicardoAlanEscobar', // Usually your GitHub org/user name.
-  projectName: 'documentacion', // Usually your repo name.
+  organizationName: 'Neuuni', // Usually your GitHub org/user name.
+  projectName: 'Tutoriales', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
   onBrokenLinks: 'throw',
