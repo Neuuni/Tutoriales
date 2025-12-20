@@ -5,11 +5,11 @@ const config = {
   title: 'NEUUNI UNIVERSIDAD',
   tagline: 'Bienvenidos 👋 ',
   favicon: 'img/logo-n.png',
-  url: 'https://Neuuni.github.io/',
+  url: 'https://docs.unineuuni.com',
   baseUrl: '/',
   organizationName: 'Neuuni', // Usually your GitHub org/user name.
   projectName: 'Tutoriales', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
+  deploymentBranch: 'main',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
