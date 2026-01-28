@@ -1,0 +1,67 @@
+/* Tabla Estilo NEUNI */
+.directorio-tabla {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.directorio-tabla th {
+  background-color: #f8faff;
+  color: #1e3a8a;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  padding: 15px;
+  border-bottom: 2px solid #e2e8f0;
+  text-align: center; /* Encabezados siempre al centro */
+}
+
+/* Celdas centradas y equilibradas */
+.directorio-tabla td {
+  padding: 15px;
+  vertical-align: middle;
+  text-align: center; /* Todo el contenido de la celda al centro */
+  border-bottom: 1px solid #f0f2f5;
+  color: #475569;
+}
+
+/* Imagen Fija (Inmune al Zoom) */
+.img-directorio {
+  width: 200px !important;
+  min-width: 200px !important;
+  max-width: 200px !important;
+  height: 200px !important; /* Altura fija para mantener cuadrado perfecto */
+  object-fit: cover; /* Recorta la imagen si no es cuadrada sin deformarla */
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto;
+}
+
+/* BOTÓN NEUNI CORREGIDO */
+.btn-neuni {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #cfe2ff;
+  color: #084298 !important;
+  padding: 0 24px; /* Quitamos padding vertical para usar height */
+  height: 40px;    /* Altura fija asegura centrado vertical del texto */
+  line-height: 40px; /* Igualar a la altura elimina el espacio inferior */
+  
+  border-radius: 8px;
+  font-weight: 700;
+  text-decoration: none !important;
+  font-size: 0.9rem;
+  border: 1px solid #b6d4fe;
+  transition: all 0.2s ease;
+  white-space: nowrap; /* Evita que el texto se rompa en dos líneas */
+}
+
+.btn-neuni:hover {
+  background-color: #b6d4fe;
+  transform: translateY(-1px);
+}

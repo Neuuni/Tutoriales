@@ -1,0 +1,35 @@
+/* Estilos para la tabla de directorio */
+.directorio-tabla {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 0.95rem;
+}
+
+.directorio-tabla th {
+  background-color: var(--ifm-color-emphasis-100);
+  padding: 12px;
+  text-align: left;
+}
+
+.directorio-tabla td {
+  padding: 10px;
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+  vertical-align: middle; /* Centra el texto con la imagen */
+}
+
+.perfil-container {
+  width: 75px;
+  height: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.perfil-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
