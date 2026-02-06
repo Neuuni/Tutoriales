@@ -21,7 +21,7 @@ function Intro() {
           <b>Bienvenido a nuestro Centro de Ayuda NEUUNI</b> 👋📚🎓
         </h1>
         <h2 className="subtitle-intro">
-          Explora nuestros recursos y encuentra el conocimiento que buscas.
+          Explora nuestros tutoriales y encuentra el conocimiento que buscas.
         </h2>
         <div className="contenido">
           <div className="contenido-izquierdo">
@@ -36,11 +36,11 @@ function Intro() {
               <a href="/docs/category/plataforma-neuuni.html" className="btn-intro">
                 <b>📘 Tutoriales NEUUNI</b>
               </a>
-              <p>Aprende a navegar por tu entorno virtual: accede a tus cursos, sube tus actividades, participa en los foros, y mucho más.</p>
+              <p>Domina la plataforma NEUUNI: accede a tus cursos, sube tus actividades, participa en los foros, y mucho más.</p>
               <a href="/docs/category/plataforma-gedux.html" className="btn-intro">
                 <b><strong>💵 Tutoriales Gedux</strong></b>
               </a>
-              <p>Gestiona tu historial académico y tus pagos mensuales de manera fácil y segura.</p>
+              <p>Explora las funciones para gestionar tus pagos y consultar tus calificaciones.</p>
               <a href="/docs/category/google-meet.html" className="btn-intro">
                 <b><strong>💻 Tutoriales Google Meet</strong></b>
               </a>
