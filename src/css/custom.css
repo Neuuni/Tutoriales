@@ -55,3 +55,14 @@
   text-decoration: none;
   border: #2124bb;
 }
+
+/* Hace que el menú de navegación quede por debajo de la imagen cuando se hace zoom */
+.navbar {
+  z-index: 100 !important; /* Bajamos un poco la prioridad del menú */
+}
+
+/* Forzamos a que el fondo del zoom y la imagen ampliada estén por encima de todo */
+.medium-zoom-overlay,
+.medium-zoom-image--opened {
+  z-index: 9999 !important; /* Capa super alta para cubrir el menú */
+}
