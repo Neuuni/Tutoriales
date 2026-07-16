@@ -1,3 +1,7 @@
+/* ==========================================
+   1. CONTENEDORES Y ESTRUCTURA GENERAL
+   ========================================== */
+
 .contenedor-intro {
   display: flex;
   flex-direction: column;
@@ -40,6 +44,10 @@
   margin-top: 20px;
 }
 
+/* ==========================================
+   2. COLUMNA IZQUIERDA (APRENDIZAJE)
+   ========================================== */
+
 .contenido-izquierdo {
   flex: 1;
   padding: 20px;
@@ -51,19 +59,8 @@
   width: 50%;
 }
 
-.contenido-izquierdo .inner-content {
-  background-color: #fff;
-  padding: 20px;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  right: 10px;
-  bottom: 10px;
-}
-
-.contenido-izquierdo p {
+/* Evitamos que este margen de 20px afecte a nuestros párrafos personalizados .txt-intro */
+.contenido-izquierdo p:not(.txt-intro) {
   margin-bottom: 20px;
   line-height: 1.6;
   color: #555;
@@ -83,13 +80,29 @@
   color: #333;
 }
 
+/* ==========================================
+   3. BOTONES Y BLOQUES DE CAMINO
+   ========================================== */
+
 .botones-intro {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 0px; 
   margin-top: 20px;
 }
 
+/* Envoltura de cada botón + su descripción */
+.bloque-camino {
+  margin-bottom: 26px; 
+  display: flex;
+  flex-direction: column;
+}
+
+.bloque-camino:last-child {
+  margin-bottom: 0; 
+}
+
+/* Botón de aprendizaje */
 .btn-intro {
   display: flex;
   justify-content: center;
@@ -103,55 +116,90 @@
   font-weight: bold;
   width: 100%;
   box-sizing: border-box;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease !important; 
 }
 
+/* Efecto hover interactivo */
 .btn-intro:hover {
-  background-color: #0056b3;
+  background-color: #0047bb;
+  color: white !important;
   text-decoration: none;
-  color: white;
+  transform: translateY(-2px); 
+  box-shadow: 0 6px 15px rgba(0, 71, 187, 0.2); 
 }
+
+/* Texto descriptivo debajo del botón */
+.txt-intro {
+  margin-top: 10px !important;    
+  margin-bottom: 0px !important;   
+  color: #555555 !important;       
+  font-size: 0.95rem !important;   
+  line-height: 1.5 !important;
+}
+
+/* ==========================================
+   4. COLUMNA DERECHA (MASCOTA Y SOPORTE) - ALINEACIÓN DE ALTURA PERFECTA
+   ========================================== */
 
 .contenido-derecho {
-  flex-direction: column;
   display: flex;
+  flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start; 
   margin-left: 10px;
-  padding: 20px;
+  padding: 20px;               /* 20px de espacio en todos los bordes externos */
   background-color: #fff;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   position: relative;
   width: 50%;
+  box-sizing: border-box;
 }
 
-.contenido-derecho .inner-content {
-  background-color: #fff;
-  padding: 20px;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  right: 10px;
-  bottom: 10px;
-}
-
-.mascota {
+/* El contenedor de Nevil ahora se estira para absorber todo el espacio vertical sobrante */
+.contenedor-nevil {
+  flex: 1;                     /* Toma el espacio disponible de forma dinámica */
   display: flex;
   justify-content: center;
   align-items: center;
   width: 100%;
-  height: auto;
-  border-radius: 8px;
 }
 
-.img-intro {
-  max-width: 100%;
-  margin-bottom: 0;
-  margin-left: 2.3rem;
-  margin-top: 18px;
+/* LA CAJA DE NEVIL: Ahora es responsiva en altura y mantiene la separación perfecta */
+.caja-nevil {
+  background-color: #f8f9fa;   /* Gris exacto */
+  border: 1px solid #e2e8f0;   /* Borde exacto */
+  border-radius: 8px;
+  padding: 20px;
+  width: 100%;
+  box-sizing: border-box;
+  
+  /* ESTO CORRIGE TODO: Mantiene una separación estricta de 20px con la caja inferior */
+  margin-bottom: 20px !important; 
+  
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.02);
 }
+
+/* La imagen de Nevil optimizada para el nuevo contenedor */
+.img-nevil-centrado {
+  width: 110%;
+  max-width: 320px;
+  height: auto;
+  margin: 0; 
+  filter: drop-shadow(0 10px 25px rgba(0, 71, 187, 0.20)); 
+  transform: scale(1.15) translateX(9%);
+}
+
+/* El soporte se queda abajo abrazando el padding inferior */
+.contenedor-soporte {
+  width: 100%;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+/* ==========================================
+   5. DETALLES FINOS Y RESPONSIVIDAD
+   ========================================== */
 
 .block-div {
   border: 0;
@@ -179,10 +227,7 @@
   .contenido-izquierdo {
     margin: 0;
     padding: 50px;
-  }
-  .video {
-    width: 450px;
-    height: 345px;
+    width: 100%;
   }
 }
 
@@ -210,8 +255,8 @@
     padding: 20px;
   }
 
-  .img-intro {
-    margin-left: 0;
+  .img-nevil-centrado {
+    width: 60%; /* Ajuste en dispositivos pequeños */
   }
 
   .contenedor-intro {
@@ -225,23 +270,4 @@
   .botones-intro {
     gap: 5px;
   }
-
-  .video {
-    width: 100%;
-    height: auto;
-  }
-}
-
-.contenedor-video {
-  height: 400px;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.contenedor-video-2 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
