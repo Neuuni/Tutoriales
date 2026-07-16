@@ -57,11 +57,39 @@ const config = {
         anonymizeIP: true, // Opcional: para anonimizar las IPs de los usuarios
       },
     ],
+    [
+      'docusaurus-plugin-image-zoom',
+      {}
+    ],
+    [
+      'docusaurus-pushfeedback',
+      {
+        project: 'qraohpqvhi', // Reemplaza esto con el ID que te dio PushFeedback
+        buttonPosition: 'center-right',     // Flota a la mitad derecha del navegador (muy cómodo)
+        modalPosition: 'sidebar-right',     // Al hacer clic, se abre una barra lateral elegante
+        buttonStyle: 'dark',                // Estilo del botón (puedes usar 'light' o 'dark')
+        modalTitle: '¿Te parece útil lo que ves?',
+        placeholder: 'Cuéntanos cómo podemos mejorarlo...',
+        ratingMode: 'thumbs',               // Sistema de calificación por Pulgar Arriba / Abajo
+      },
+    ],
   ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      // CONFIGURACIÓN DEL ZOOM DE IMÁGENES
+      zoom: {
+        selector: '.markdown img, .card img, Card img', // Funciona en markdown estándar y dentro de tus componentes Card
+        background: {
+          light: 'rgba(255, 255, 255, 0.95)',
+          dark: 'rgba(30, 30, 30, 0.95)'
+        },
+        config: {
+          // Opciones de medium-zoom (ej: distancia o margen en px)
+          margin: 24,
+        }
+      },
       image: 'img/logo-2-n.jpeg',
       navbar: {
         title: 'Inicio',
@@ -71,7 +99,6 @@ const config = {
         },
         items: [
           {
-
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
@@ -90,19 +117,23 @@ const config = {
             label: 'Contacto',
           },
           {
-            href: 'https://unineuuni.edu.mx',
-            label: '🔵 NEUUNI',
+            type: 'dropdown',
+            label: 'Plataformas 🔗',
             position: 'right',
-          },
-          {
-            href: 'https://app.gedux.mx/',
-            label: '🟠 Gedux',
-            position: 'right',
-          },
-          {
-            href: 'https://research.unineuuni.com/',
-            label: '📚 NeuuniResearch',
-            position: 'right',
+            items: [
+              {
+                href: 'https://unineuuni.edu.mx',
+                label: '🔵 NEUUNI',
+              },
+              {
+                href: 'https://app.gedux.mx/',
+                label: '🟠 Gedux',
+              },
+              {
+                href: 'https://research.unineuuni.com/',
+                label: '📚 NeuuniResearch',
+              },
+            ]
           },
         ],
       },
@@ -146,7 +177,7 @@ const config = {
         appId: '7A0CPPGF5D',
         apiKey: '3c11cba64b9fb86705de0ceff7298d96', // Esta es tu clave de búsqueda (Search-Only API Key)
         indexName: 'unineuuni', // Este es el nombre del índice que has configurado en Algolia
-        contextualSearch: true, // Habilita la búsqueda contextual
+        contextsearch: true, // Habilita la búsqueda contextual
         // Opcional: Cómo se muestran los resultados de búsqueda
         // externalUrlRegex: 'external\\.com|domain\\.com',
 
