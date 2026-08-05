@@ -1,0 +1,136 @@
+.directorio-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin: 2em 0;
+}
+
+/* Tarjeta ajustada con alineación superior consistente */
+.contacto-card {
+  display: flex;
+  align-items: flex-start; /* 👈 Alinea título e imagen al tope */
+  gap: 1.75rem;
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  padding: 1.25rem 1.75rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.03);
+}
+
+/* 🖼️ Imagen XL (210px x 210px) */
+.contacto-avatar {
+  width: 210px !important;
+  height: 210px !important;
+  min-width: 210px !important;
+  border-radius: 14px;
+  object-fit: cover;
+  flex-shrink: 0;
+  border: 1px solid #f1f5f9;
+}
+
+/* Contenido central */
+.contacto-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* 👈 Crece de arriba hacia abajo */
+}
+
+.contacto-titulo {
+  margin: 0 0 0.5rem 0 !important;
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: #0f172a;
+  line-height: 1.2;
+}
+
+.contacto-carreras {
+  margin: 0 0 0.85rem 0;
+  padding-left: 1.2rem;
+  font-size: 0.95rem;
+  color: #475569;
+  line-height: 1.5;
+}
+
+.contacto-correo-wrapper {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.25rem;
+}
+
+.correo-icono {
+  font-size: 1rem;
+}
+
+.contacto-correo {
+  font-size: 0.95rem;
+  color: #334155;
+  text-decoration: none;
+  font-weight: 500;
+  word-break: break-all;
+}
+
+.contacto-correo:hover {
+  color: #2124bb;
+  text-decoration: underline;
+}
+
+/* Botón de Acción alineado al tope */
+.contacto-accion {
+  display: flex;
+  align-items: flex-start; /* 👈 Alineación al tope para mantener simetría */
+  padding-top: 0.2rem;     /* Pequeño nivelador para el borde del botón */
+  flex-shrink: 0;
+}
+
+.btn-neuni-card {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem 1.35rem;
+  background-color: #2124bb;
+  color: #ffffff !important;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-decoration: none !important;
+  white-space: nowrap;
+  box-shadow: 0 2px 4px rgba(33, 36, 187, 0.15);
+  transition: all 0.2s ease;
+}
+
+.btn-neuni-card:hover {
+  background-color: #181a8b;
+  transform: translateY(-1px);
+}
+
+/* Adaptación responsive para pantallas móviles */
+@media (max-width: 768px) {
+  .contacto-card {
+    flex-direction: column;
+    align-items: center; /* Centra todo en celular */
+    gap: 1.25rem;
+    padding: 1.25rem;
+  }
+
+  .contacto-avatar {
+    width: 160px !important;
+    height: 160px !important;
+    min-width: 160px !important;
+    margin: 0 auto;
+  }
+
+  .contacto-info {
+    width: 100%;
+  }
+
+  .contacto-accion {
+    width: 100%;
+    padding-top: 0;
+  }
+
+  .btn-neuni-card {
+    width: 100%;
+  }
+}

@@ -3,204 +3,157 @@ sidebar_position: 1
 ---
 
 import VideoIntro from '@site/docs/alumnos/tutorial-basics/insertarvideo.jsx';
-import IntroBox from '@site/src/components/HomepageFeatures/introbox.jsx'
-import Card from '@site/src/components/HomepageFeatures/card.jsx'
-import StickyNote from '@site/src/components/HomepageFeatures/stickynotes.jsx'
-import CustomLink from '@site/src/components/HomepageFeatures/CustomLink.jsx'
+import IntroBox from '@site/src/components/HomepageFeatures/introbox.jsx';
+import Card from '@site/src/components/HomepageFeatures/card.jsx';
+import StickyNote from '@site/src/components/HomepageFeatures/stickynotes.jsx';
+import CustomLink from '@site/src/components/HomepageFeatures/CustomLink.jsx';
+import DirectorioContactos from '@site/src/components/HomepageFeatures/DirectorioContactos.jsx';
 import './estilos.css';
 import './custom.css';
+
+export const listaContactos = [
+  {
+    avatar: require('./img/soporte.jpg').default,
+    departamento: 'Soporte Técnico',
+    carreras: [],
+    whatsapp: '5214401051527',
+    correo: 'soporte@unineuuni.edu.mx'
+  },
+  {
+    avatar: require('./img/guillermo.jpg').default,
+    departamento: 'Coordinación',
+    carreras: ['Doctorado en Pedagogía e Investigación'],
+    whatsapp: '5214401051527',
+    correo: 'g.canseco@unineuuni.edu.mx'
+  },
+  {
+    avatar: require('./img/isaac.jpg').default,
+    departamento: 'Coordinación',
+    carreras: [
+      'Ing. Industrial',
+      'Ing. en Desarrollo de Software e Inteligencia Artificial'
+    ],
+    whatsapp: '5214401051527',
+    correo: 'ri.munoz@unineuuni.edu.mx'
+  },
+  {
+    avatar: require('./img/ramon.jpg').default,
+    departamento: 'Coordinación',
+    carreras: [
+      'Lic. en Derecho',
+      'Lic. en Ciencias Pedagógicas',
+      'Mtría. en Docencia y Dirección de Instituciones Educativas'
+    ],
+    whatsapp: '5214401051527',
+    correo: 'rs.cortessanchez@unineuuni.edu.mx'
+  },
+  {
+    avatar: require('./img/hugo.jpg').default,
+    departamento: 'Coordinación',
+    carreras: [
+      'Lic. en Administración',
+      'Lic. en Mercadotecnia Digital',
+      'Lic. en Finanzas, Banca y Negocios'
+    ],
+    whatsapp: '5214401051527',
+    correo: 'hu.cardona@unineuuni.edu.mx'
+  },
+  {
+    avatar: require('./img/administracion.jpg').default,
+    departamento: 'Administración',
+    carreras: [],
+    whatsapp: '5214446415756',
+    correo: 'administracion@unineuuni.edu.mx'
+  },
+  {
+    avatar: require('./img/cobranza.jpg').default,
+    departamento: 'Cobranza',
+    carreras: [],
+    whatsapp: '5214446415756',
+    correo: 'info@unineuuni.edu.mx'
+  },
+  {
+    avatar: require('./img/controlescolar.jpg').default,
+    departamento: 'Control Escolar',
+    carreras: [],
+    whatsapp: '5214447135591',
+    correo: 'controlescolar@unineuuni.edu.mx'
+  }
+];
 
 # Contacto NEUUNI
 
 <IntroBox>
-    Mantener una comunicación fluida con los distintos departamentos de NEUUNI es fundamental
-    para asegurar el éxito de tu trayectoria académica. El objetivo de esta sección es proporcionarte
-    la información necesaria para que puedas contactar al área correspondiente de manera rápida
-    y efectiva, ya sea por **WhatsApp** o **correo electrónico**.
+  Mantener una comunicación fluida con los distintos departamentos de NEUUNI es fundamental
+  para asegurar el éxito de tu trayectoria académica. El objetivo de esta sección es proporcionarte
+  la información necesaria para que puedas contactar al área correspondiente de manera rápida
+  y efectiva, ya sea por **WhatsApp** o **correo electrónico**.
 </IntroBox>
 
 <StickyNote>
-    Al enviar un correo o mensaje, incluye siempre tu nombre completo
-    y matrícula para identificarte.
+  Al enviar un correo o mensaje, incluye siempre tu nombre completo
+  y matrícula para identificarte.
 </StickyNote>
 
 ---
 
 ## Información de contactos
 
-En la siguiente tabla se muestra la información de contacto de los departamentos. Puedes comunicarte por WhatsApp o por correo
-electrónico.
+En el siguiente directorio encuentras la información de contacto de los departamentos. Puedes comunicarte por WhatsApp o por correo electrónico.
 
-<table className="directorio-tabla">
-  <thead>
-    <tr>
-      <th>Perfil</th>
-      <th>Departamento</th>
-      <th>WhatsApp</th>
-      <th>Correo</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src={require('./img/soporte.jpg').default} className="img-directorio" /></td>
-      <td><strong>Soporte Técnico</strong></td>
-      <td>
-        <a href="https://wa.me/5214401051527" target="_blank" className="btn-neuni">Contactar</a>
-      </td>
-      <td>soporte@unineuuni.edu.mx</td>
-    </tr>
-    <tr>
-      <td><img src={require('./img/guillermo.jpg').default} className="img-directorio" /></td>
-      <td>
-        <strong>Coordinación</strong><br/>
-        <p style={{textAlign: 'left'}}>
-          - Doctorado en Pedagogía e Investigación
-        </p>
-      </td>
-      <td>
-        <a href="https://wa.me/5214401051527" target="_blank" className="btn-neuni">Contactar</a>
-      </td>
-      <td>g.canseco@unineuuni.edu.mx</td>
-    </tr>
-    <tr>
-      <td><img src={require('./img/isaac.jpg').default} className="img-directorio" /></td>
-      <td>
-        <strong>Coordinación</strong><br/>
-        <p style={{textAlign: 'left'}}>
-          - Ing. Industrial<br/>
-          - Ing. en Desarrollo de Software e Inteligencia Artificial
-        </p>
-      </td>
-      <td>
-        <a href="https://wa.me/5214401051527" target="_blank" className="btn-neuni">Contactar</a>
-      </td>
-      <td>ri.munoz@unineuuni.edu.mx</td>
-    </tr>
-    <tr>
-      <td><img src={require('./img/ramon.jpg').default} className="img-directorio" /></td>
-      <td>
-        <strong>Coordinación</strong><br/>
-        <p style={{textAlign: 'left'}}>
-          - Lic. en Derecho
-          - Lic. en Ciencias Pedagógicas
-          - Mtría. en Docencia y Dirección de Instituciones Educativas
-        </p>
-      </td>
-      <td>
-        <a href="https://wa.me/5214401051527" target="_blank" className="btn-neuni">Contactar</a>
-      </td>
-      <td>rs.cortessanchez@unineuuni.edu.mx</td>
-    </tr>
-    <tr>
-      <td><img src={require('./img/hugo.jpg').default} className="img-directorio" /></td>
-      <td>
-        <strong>Coordinación</strong><br/>
-        <p style={{textAlign: 'left'}}>
-         - Lic. en Administración
-         - Lic. en Mercadotecnia Digital
-         - Lic. en Finanzas, Banca y Negocios
-        </p>
-      </td>
-      <td>
-        <a href="https://wa.me/5214401051527" target="_blank" className="btn-neuni">Contactar</a>
-      </td>
-      <td>hu.cardona@unineuuni.edu.mx</td>
-    </tr>
-    <tr>
-      <td><img src={require('./img/administracion.jpg').default} className="img-directorio" /></td>
-      <td><strong>Administración</strong></td>
-      <td>
-        <a href="https://wa.me/5214446415756" target="_blank" className="btn-neuni">Contactar</a>
-      </td>
-      <td>administracion@unineuuni.edu.mx</td>
-    </tr>
-    <tr>
-      <td><img src={require('./img/cobranza.jpg').default} className="img-directorio" /></td>
-      <td><strong>Cobranza</strong></td>
-      <td>
-        <a href="https://wa.me/5214446415756" target="_blank" className="btn-neuni">Contactar</a>
-      </td>
-      <td>info@unineuuni.edu.mx</td>
-    </tr>
-    <tr>
-      <td><img src={require('./img/controlescolar.jpg').default} className="img-directorio" /></td>
-      <td><strong>Control Escolar</strong></td>
-      <td>
-        <a href="https://wa.me/5214446415756" target="_blank" className="btn-neuni">Contactar</a>
-      </td>
-      <td>e.rodriguez@unineuuni.edu.mx</td>
-    </tr>
-  </tbody>
-</table>
+<DirectorioContactos contactos={listaContactos} />
 
 <StickyNote>
-    Haz clic en el botón **Contactar** para que se abra el chat en WhatsApp
-    del departamento
+  Haz clic en el botón **Contactar por WhatsApp** para que se abra el chat en WhatsApp del departamento.
 </StickyNote>
 
 ---
 
 ## Pasos para encontrar el contacto desde el grupo de WhatsApp
 
-    1. Desde tu grupo de WhatsApp de tu generación, **haz clic en el nombre
-    del grupo**.
+1. Desde tu grupo de WhatsApp de tu generación, **haz clic en el nombre del grupo**.
 
-    <div style={{ width: '50%', margin: '0 0' }}>
-      <Card>
-        <img 
-          src={require('./img/grupo.png').default} 
-          alt="grupo" 
-          style={{ width: '100%', display: 'block', margin: '0 auto' }} 
-        />
-        ___
-      </Card>
-    </div>
+<div>
+  <Card isHorizontal={false}>
+    <img 
+      src={require('./img/grupo.png').default} 
+      alt="Grupo de WhatsApp" 
+    />
+  </Card>
+</div>
 
-    2. En *Información del grupo*, desplaza hacia abajo hasta que ubiques
-    a los **miembros del grupo**.
+2. En *Información del grupo*, desplaza hacia abajo hasta que ubiques a los **miembros del grupo**.
 
-    <div style={{ width: '50%', margin: '0 0' }}>
-      <Card>
-        <img 
-          src={require('./img/miembros.png').default} 
-          alt="grupo" 
-          style={{ width: '100%', display: 'block', margin: '0 auto' }} 
-        />
-        ___
-      </Card>
-    </div>
+<div>
+  <Card isHorizontal={false}>
+    <img 
+      src={require('./img/miembros.png').default} 
+      alt="Miembros del grupo" 
+    />
+  </Card>
+</div>
 
-    3. Los departamentos de NEUUNI aparecen identificados con sus nombres
-    respectivos, imagen de perfil y algunos tienen el rol de **administrador de
-    grupo**, para que puedas reconocerlos fácilmente.
-    4. Para iniciar una conversación, toca el nombre o el número del
-    departamento y selecciona la opción **Mensaje**.
+3. Los departamentos de NEUUNI aparecen identificados con sus nombres respectivos, imagen de perfil y algunos tienen el rol de **administrador de grupo**, para que puedas reconocerlos fácilmente.
 
-    <div style={{ width: '50%', margin: '0 0' }}>
-      <Card>
-        <img 
-          src={require('./img/mensajear.png').default} 
-          alt="grupo" 
-          style={{ width: '100%', display: 'block', margin: '0 auto' }} 
-        />
-        ___
-      </Card>
-    </div>
+4. Para iniciar una conversación, toca el nombre o el número del departamento y selecciona la opción **Mensaje**.
+
+<div>
+  <Card isHorizontal={false}>
+    <img 
+      src={require('./img/mensajear.png').default} 
+      alt="Enviar mensaje" 
+    />
+  </Card>
+</div>
 
 <StickyNote>
-    Ten en cuenta que la atención se brinda de prioritariamente en días
-    hábiles y horarios de oficina. Consulta la información del
-    departamento para conocer su horario.
+  Ten en cuenta que la atención se brinda prioritariamente en días hábiles y horarios de oficina. Consulta la información del departamento para conocer su horario.
 </StickyNote>
 
 ---
 
 **⚠️ ¡IMPORTANTE!**
 
-Para recibir una atención ágil y personalizada, te recomendamos **identificar previamente el área
-relacionada con tu duda** y comunicarte directamente con el departamento correcto a través de los
-medios antes mencionados. Esto evitará demoras en tus trámites y nos permitirá brindarte una
-solución más eficiente.
+Para recibir una atención ágil y personalizada, te recomendamos **identificar previamente el área relacionada con tu duda** y comunicarte directamente con el departamento correcto a través de los medios antes mencionados. Esto evitará demoras en tus trámites y nos permitirá brindarte una solución más eficiente.
 
-**Si tienes duda sobre algún proceso, o no sabes a qué departamento comunicarte, con gusto te ayudaremos
-a solucionar tu problema.** 🙂
+**Si tienes duda sobre algún proceso, o no sabes a qué departamento comunicarte, con gusto te ayudaremos a solucionar tu problema.** 🙂
