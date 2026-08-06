@@ -3,12 +3,12 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'NEUUNI UNIVERSIDAD',
-  tagline: 'Bienvenidos 👋 ',
+  tagline: 'Centro de Ayuda y Documentación Oficial',
   favicon: 'img/logo-n.png',
   url: 'https://docs.unineuuni.com',
   baseUrl: '/',
-  organizationName: 'Neuuni', // Usually your GitHub org/user name.
-  projectName: 'Tutoriales', // Usually your repo name.
+  organizationName: 'Neuuni',
+  projectName: 'Tutoriales',
   deploymentBranch: 'main',
   trailingSlash: false,
   onBrokenLinks: 'throw',
@@ -53,8 +53,8 @@ const config = {
     [
       '@docusaurus/plugin-google-gtag',
       {
-        trackingID: 'G-7G7NHQBYKM', // Aquí va tu ID de medición de GA4
-        anonymizeIP: true, // Opcional: para anonimizar las IPs de los usuarios
+        trackingID: 'G-7G7NHQBYKM',
+        anonymizeIP: true,
       },
     ],
     [
@@ -64,29 +64,42 @@ const config = {
     [
       'docusaurus-pushfeedback',
       {
-        project: 'qraohpqvhi', // Reemplaza esto con el ID que te dio PushFeedback
-        buttonPosition: 'center-right',     // Flota a la mitad derecha del navegador (muy cómodo)
-        modalPosition: 'sidebar-right',     // Al hacer clic, se abre una barra lateral elegante
-        buttonStyle: 'dark',                // Estilo del botón (puedes usar 'light' o 'dark')
+        project: 'qraohpqvhi',
+        buttonPosition: 'center-right',
+        modalPosition: 'sidebar-right',
+        buttonStyle: 'dark',
         modalTitle: '¿Te parece útil lo que ves?',
         placeholder: 'Cuéntanos cómo podemos mejorarlo...',
-        ratingMode: 'thumbs',               // Sistema de calificación por Pulgar Arriba / Abajo
+        ratingMode: 'thumbs',
       },
     ],
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    /** @type {import('@docusaurus/theme-common').UserThemeConfig} */
     ({
+      // CONFIGURACIÓN DE METADATOS Y OPEN GRAPH (Vista previa al compartir enlaces)
+      metadata: [
+        { 
+          name: 'description', 
+          content: 'Plataforma oficial de guías, tutoriales y solución de problemas de NEUUNI Universidad.' 
+        },
+        { 
+          property: 'og:description', 
+          content: 'Plataforma oficial de guías, tutoriales y solución de problemas de NEUUNI Universidad.' 
+        },
+        { property: 'og:type', content: 'website' },
+        { name: 'twitter:card', content: 'summary_large_image' },
+      ],
+
       // CONFIGURACIÓN DEL ZOOM DE IMÁGENES
       zoom: {
-        selector: '.markdown img, .card img, Card img', // Funciona en markdown estándar y dentro de tus componentes Card
+        selector: '.markdown img, .card img, Card img',
         background: {
           light: 'rgba(255, 255, 255, 0.95)',
           dark: 'rgba(30, 30, 30, 0.95)'
         },
         config: {
-          // Opciones de medium-zoom (ej: distancia o margen en px)
           margin: 24,
         }
       },
@@ -175,22 +188,10 @@ const config = {
       },
       algolia: {
         appId: '7A0CPPGF5D',
-        apiKey: '3c11cba64b9fb86705de0ceff7298d96', // Esta es tu clave de búsqueda (Search-Only API Key)
-        indexName: 'unineuuni', // Este es el nombre del índice que has configurado en Algolia
-        contextsearch: true, // Habilita la búsqueda contextual
-        // Opcional: Cómo se muestran los resultados de búsqueda
-        // externalUrlRegex: 'external\\.com|domain\\.com',
-
-        // Opcional: Parámetros de búsqueda adicionales (para filtros, etc.)
-        searchParameters: {},
-
-        // Opcional: Ruta para el CSS de DocSearch (ya viene con el tema)
-        // Esto solo es necesario si no usas el preset classic o si quieres una ruta diferente
-        // You can use a custom CSS file to override the default DocSearch CSS (might be useful for dark mode adjustments)
-        // searchPagePath: 'search',
-
-        // Opcional: Idioma del buscador (si tu sitio no es inglés)
-        lang: 'es', // Por ejemplo, para español
+        apiKey: '3c11cba64b9fb86705de0ceff7298d96',
+        indexName: 'unineuuni',
+        contextsearch: true,
+        lang: 'es',
       },
     }),
 };
